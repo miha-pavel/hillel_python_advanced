@@ -6,4 +6,4 @@ if __name__ == '__main__':
     main()
 #     Или $pip install pip-tools
 # $ pip-dump 
-#     Или pip freeze --local 
+#     Или pip freeze --local
